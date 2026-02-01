@@ -90,3 +90,14 @@ footer {
 footer p {
     color: #f4f4f4;
 }
+
+
+.light-theme {
+  background-color: #d8d8d8;
+  color: #000000;
+}
+
+.dark-theme {
+  background-color: #363636;
+  color: #ffffff;
+}
