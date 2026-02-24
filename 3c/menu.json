@@ -1,0 +1,17 @@
+{
+    "restaurant": {
+        "name": "BLIBLO",
+        "description": "en helt okej restaurang"
+    }, 
+    "categories": [
+        {
+            "name": "Förrätter", 
+            "dishes": [
+                {
+                    "name": "Köttbullar",
+                    "price": 120
+                }
+            ]
+        }
+    ]
+}
