@@ -101,3 +101,10 @@ footer p {
   background-color: #363636;
   color: #ffffff;
 }
+
+.card {
+  border: 2px solid black;
+  padding: 10%;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
